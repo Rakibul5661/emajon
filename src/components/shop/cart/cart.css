@@ -1,0 +1,26 @@
+.pricing{
+    padding-left: 5px;
+}
+.btn{
+    width: 90%;
+    display: block;
+    margin: 16px auto;
+    font-weight: 400;
+    font-size: 17px;
+    border-radius: 4px;
+}
+.btn-cart{
+    background-color: #FF3030;
+}
+
+.btn-cart:hover{
+    background-color: #d61010;
+}
+
+.btn-order{
+    background-color: #FF9900;
+}
+
+.btn-order:hover{
+    background-color: #ff8c00;
+}

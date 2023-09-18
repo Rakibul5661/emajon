@@ -1,0 +1,23 @@
+.product-div{
+    border: 1px solid rgb(233, 230, 230);
+    border-radius: 8px;
+    position: relative;
+    
+}
+.product{
+    padding: 10px;
+    padding-bottom: 35px;
+}
+.product img{
+    width: 250px;
+    height: 250px;
+}
+.cart-btn{
+    width: 100%;
+    border-radius: 0px 0px 8px 8px;
+    border: 1px solid #95A0A7;
+    background: #FFE0B3;
+    color: black;
+    position: absolute;
+    bottom: 0;
+}
