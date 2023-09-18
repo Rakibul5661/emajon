@@ -1,9 +1,7 @@
 import React from 'react';
 import './cart.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faArrowRight, faDeleteLeft, faTrash, faTrashAlt } from '@fortawesome/free-solid-svg-icons';
-import Product from '../product/Product';
-
+import { faArrowRight, faTrashAlt } from '@fortawesome/free-solid-svg-icons';
 const Cart = (props) => {
     const cart = props.cart
     let total = 0; 
